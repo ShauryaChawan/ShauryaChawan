@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryachawan&show_icons=true&locale=en" alt="shauryachawan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryachawan&" alt="shauryachawan" /></p>
+
+<h2>Major Projects:</h2>
+
+<h2>Small Practice Projects:</h2>
