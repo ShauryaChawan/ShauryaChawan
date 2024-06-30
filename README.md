@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaurya Chawan</h1>
 <h3 align="center">A passionate M.E.R.N. stack developer from India</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Bzzb92NKwUOj0FjQOd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/english4it-cat-cool-kitten-Bzzb92NKwUOj0FjQOd">via GIPHY</a></p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Java, Python**
