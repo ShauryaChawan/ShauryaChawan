@@ -30,5 +30,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryachawan&" alt="shauryachawan" /></p>
 
 <h2>Major Projects:</h2>
-
-<h2>Small Practice Projects:</h2>
+1. Home Town - <a href="https://github.com/ShauryaChawan/Home-Town-2.0">https://github.com/ShauryaChawan/Home-Town-2.0</a>
+2. Fiverr.com - <a href="https://github.com/ShauryaChawan/Fiverr-Clone">https://github.com/ShauryaChawan/Fiverr-Clone</a>
+3. Angular.js Blog Website - <a href="https://github.com/ShauryaChawan/AngularJs-Simple-Blog-Website">https://github.com/ShauryaChawan/AngularJs-Simple-Blog-Website</a>
+4. Nexus Trader - 
+  1. GitHub: <a href="https://github.com/ShauryaChawan/Nexus-Traders-2.0">https://github.com/ShauryaChawan/Nexus-Traders-2.0</a>
+  2. Deployment: <a href="https://master--curious-starburst-984120.netlify.app/">https://master--curious-starburst-984120.netlify.app/<a/>
