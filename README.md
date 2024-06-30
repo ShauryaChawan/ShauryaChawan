@@ -21,10 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryachawan&show_icons=true&locale=en&layout=compact" alt="shauryachawan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryachawan&show_icons=true&locale=en" alt="shauryachawan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryachawan&" alt="shauryachawan" /></p>
-
 <h2>Major Projects:</h2> <br/>
 1. Home Town - <a href="https://github.com/ShauryaChawan/Home-Town-2.0">https://github.com/ShauryaChawan/Home-Town-2.0</a> <br/>
 2. Fiverr.com - <a href="https://github.com/ShauryaChawan/Fiverr-Clone">https://github.com/ShauryaChawan/Fiverr-Clone</a> <br/>
