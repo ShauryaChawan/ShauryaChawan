@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaurya Chawan</h1>
+**<h1 align="center">Hi 👋, I'm Shaurya Chawan</h1>
 <h3 align="center">A passionate React.JS stack developer from India</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -28,3 +28,4 @@
 4. Nexus Trader - <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;4.1. GitHub: <a href="https://github.com/ShauryaChawan/Nexus-Traders-2.0">https://github.com/ShauryaChawan/Nexus-Traders-2.0</a> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;4.2. Deployment: <a href="https://master--curious-starburst-984120.netlify.app/">https://master--curious-starburst-984120.netlify.app/<a/> <br/>
+**
