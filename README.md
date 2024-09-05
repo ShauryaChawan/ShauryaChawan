@@ -1,7 +1,7 @@
 **<h1 align="center">Hi 👋, I'm Shaurya Chawan</h1>**
 <h3 align="center">A passionate React.js developer from India</h3>
 
-- 🌱 I’m currently learning **M.E.R.N. + Java Full Stack**
+- 🌱 I’m currently learning **M.E.R.N. + Spring Boot Full Stack**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, SQL, MongoDB, C++, Java & Python**
 
